@@ -1,0 +1,169 @@
+.header {
+    text-align: center;
+}
+
+.main-body {
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: #DDE6ED;
+    border-radius: 25px;
+}
+
+.head-title {
+    background-color: #526D82;
+    font-size: 40px;
+    /* margin-left: 100px;
+    margin-right: 100px; */
+    margin-bottom: 40px;
+    padding-bottom: 24px;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.content-header-title {
+    display: inline-block;
+    padding-top: 10px;
+}
+
+#profile-image {
+    border-radius: 50%;
+    margin-right: 20px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+#header-jurusan {
+    font-size: 30px;
+}
+
+.table-image {
+    float: left;
+}
+
+.content-main-1 {
+    padding: 20px 100px;
+    display: flex;
+    /* background-color: black; */
+    justify-content: space-between;
+     
+}
+
+.description{
+    margin-right: 2%;
+    padding: 10px 100px 10px 10px;
+    width: 500px;
+    background-color: #9DB2BF;
+    border-radius: 20px;
+    text-align: justify;
+}
+
+.pendidikan {
+    margin-left: 2%;
+    padding: 10px 100px 10px 10px;
+    width: 500px;
+    background-color: #9DB2BF;
+    border-radius: 20px;
+}
+
+.content-main-2 {
+    display: block;
+    margin-left: 100px;
+    margin-right: 100px;
+    /* background-color: cadetblue; */
+}
+
+.pengalaman-content {
+    background-color: #9DB2BF;
+    border-radius: 25px;
+}
+
+.table-pengalaman {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pengalaman-nama {
+    padding-right: 500px;
+}
+
+.pengalaman-tanggal {
+    padding-left: 450px;
+    text-align: right;
+}
+
+#header-pengalaman {
+    text-align: center;
+}
+
+.content-main-3 {
+    display: flex;
+    /* background-color: darkgrey; */
+    justify-content: space-between;
+}
+
+.skillset {
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: 100px;
+    background-color: #9DB2BF;
+    padding: 10px 10px 10px 10px;
+    border-radius: 25px;
+}
+
+.header-skillset {
+    background-color: lightgray;
+    text-align: center;
+}
+
+.toolset {
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-right: auto;
+    background-color: #9DB2BF;
+    padding: 10px 10px 10px 10px;
+    border-radius: 25px;
+}
+
+.header-toolset {
+    text-align: center;
+    background-color: lightgray;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.no-style-list {
+    list-style-type: none;
+}
+
+/* .table-softskill tr td {
+    border: 1px solid black;
+}
+.table-hardskill tr td {
+    border: 1px solid black;
+} */
+
+.skill-score {
+    padding-left: 30px;
+    text-align: right;
+}
+
+.table-hardskill .skill-score {
+    width: 86px;
+}
+
+.footer {
+    background-color: #526D82;
+    border-radius: 0px 0px 25px 25px;
+    margin-top: 20px;
+    padding-top: 5px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.skillset .text-center {
+    background-color: #526D82;
+}
+
+
+
